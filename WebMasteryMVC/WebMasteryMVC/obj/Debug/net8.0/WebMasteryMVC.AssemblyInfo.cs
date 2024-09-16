@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebMasteryMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b30de80834d7af302a0fe90718e9cd25219215d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+521b82430299453c65d1db2aa1269233b521c31e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebMasteryMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebMasteryMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
